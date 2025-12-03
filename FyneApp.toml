@@ -1,0 +1,13 @@
+[Details]
+Icon = "resources/images/icon.png"
+Name = "Synth Echoid"
+ID = "com.github.biscript.echoid"
+Version = "0.1.0"
+Build = 10
+
+[LinuxAndBSD]
+GenericName = "Vocal synthesizer"
+Categories = ["Audio", "Music"]
+Comment = "Lightweight vocal synthesizer"
+Keywords = ["synthesizer", "tune", "tuning", "vocal", "voice", "echoid"]
+ExecParams = " %U -x 42"
