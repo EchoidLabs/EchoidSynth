@@ -1,4 +1,4 @@
-module echoid
+module github.com/EchoidLabs/EchoidSynth
 
 go 1.25.1
 

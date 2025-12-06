@@ -1,7 +1,7 @@
 [Details]
 Icon = "resources/images/icon.png"
 Name = "Synth Echoid"
-ID = "com.github.biscript.echoid"
+ID = "com.github.echoidlabs.echoidsynth"
 Version = "0.1.0"
 Build = 10
 
