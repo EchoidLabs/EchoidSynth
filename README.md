@@ -34,12 +34,14 @@
             </a>
           </div>
         </div>
-        <h2>
-          About Echoid
-        </h2>
-        <p>
-          A simple and free vocal synthesis program
-        </p>
+        <div>
+          <h2>
+            About Echoid
+          </h2>
+          <p>
+            A simple and free vocal synthesis program
+          </p>
+        </div>
       </div>
     </main>
   </body>
