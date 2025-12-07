@@ -36,7 +36,7 @@
         </div>
         <div>
           <h2>
-            About Echoid
+            About
           </h2>
           <p>
             A simple and free vocal synthesis program
