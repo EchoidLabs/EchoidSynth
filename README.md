@@ -15,22 +15,22 @@
           </h2>
           <div>
             <img src="https://img.shields.io/github/last-commit/EchoidLabs/EchoidSynth/main?display_timestamp=author&style=flat" alt="GitHub last commit (branch)">
-            <img alt="Weblate project translated" src="https://img.shields.io/weblate/progress/EchoidSynth">
-            <img alt="GitHub Release" src="https://img.shields.io/github/v/release/EchoidLabs/EchoidSynth">
+            <img alt="Weblate project translated" src="https://img.shields.io/weblate/progress/EchoidSynth?style=flat">
+            <img alt="GitHub Release" src="https://img.shields.io/github/v/release/EchoidLabs/EchoidSynth?style=flat">
           </div>
           <div>
             <img alt="GitHub Repo forks" src="https://img.shields.io/github/forks/EchoidLabs/EchoidSynth?style=flat">
-            <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/EchoidLabs/EchoidSynth">
-            <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/EchoidLabs/EchoidSynth">
+            <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/EchoidLabs/EchoidSynth?style=flat">
+            <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/EchoidLabs/EchoidSynth?style=flat">
           </div>
           <div>
             <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/EchoidLabs/EchoidSynth?style=flat">
-            <img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/EchoidLabs/EchoidSynth">
+            <img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/EchoidLabs/EchoidSynth?style=flat">
             <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/EchoidLabs/EchoidSynth?style=flat">
           </div>
           <div>
-            <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/EchoidLabs/EchoidSynth">
-            <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/EchoidLabs/EchoidSynth/total">
+            <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/EchoidLabs/EchoidSynth?style=flat">
+            <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/EchoidLabs/EchoidSynth/total?style=flat">
           </div>
         </div>
         <div>
@@ -45,8 +45,8 @@
             </div>
             <br>
             <div>
-              <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/EchoidLabs/EchoidSynth">
-              <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/EchoidLabs">
+              <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/EchoidLabs/EchoidSynth?style=flat">
+              <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/EchoidLabs?style=flat">
               <img alt="GitHub followers" src="https://img.shields.io/github/followers/EchoidLabs?style=flat">
             </div>
           </div>
