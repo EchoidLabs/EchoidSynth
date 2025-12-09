@@ -32,6 +32,12 @@
             <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/EchoidLabs/EchoidSynth?style=flat">
             <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/EchoidLabs/EchoidSynth/total?style=flat">
           </div>
+          <div>
+            <img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/EchoidLabs/EchoidSynth?style=flat&label=go">
+            <a href="https://goreportcard.com/report/github.com/EchoidLabs/EchoidSynth" target="_blank" rel="noopener noreferrer">
+              <img src="https://goreportcard.com/badge/github.com/EchoidLabs/EchoidSynth" alt="Go Report Card">
+            </a>
+          </div>
         </div>
         <div>
           <h2>
